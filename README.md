@@ -66,8 +66,8 @@ Hi there! 👋 I'm **Amandeep Rawat**, a passionate **20-year-old BCA student** 
 
 ## 🤝 Connect With Me
 
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com](https://www.linkedin.com/in/amandeep-rawat-1622a82ba/)/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandeep-rawat-1622a82ba/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amandeep-rawat)
 
 ---
 
