@@ -28,6 +28,8 @@ Hi there! 👋 I'm **Amandeep Rawat**, a passionate **20-year-old BCA student** 
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express.js-gray?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Tools:
 
@@ -35,10 +37,13 @@ Hi there! 👋 I'm **Amandeep Rawat**, a passionate **20-year-old BCA student** 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-teal?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![GSAP](https://img.shields.io/badge/-GSAP-green?style=for-the-badge&logo=greensock&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux&logoColor=white)
+![Clerk](https://img.shields.io/badge/-Clerk-lightgray?style=for-the-badge&logo=clerk&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-blue?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-teal?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
-
-
 ## 📂 Featured Projects
 
 ### 🌟 Full Stack Job Portal App
