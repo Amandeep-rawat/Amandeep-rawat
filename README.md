@@ -9,7 +9,7 @@ Hi there! 👋 I'm **Amandeep Rawat**, a passionate **20-year-old BCA student** 
 - 🎓 **Education:** Bachelor of Computer Applications (BCA)
 - 🔥 **Interest:** Full Stack Web Development
 - 🌐 **Tech Stack Expertise:**
-  - **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React.js, Next.js, EJS
+  - **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React.js, Next.js, EJS,Typescript
   - **Backend:** Node.js, Express.js, Socket.io
   - **Databases:** SQL, Supabase, Mongodb, sqlite3
   - **Other Tools:** Framer Motion, GSAP, Clerk, Subabase, knowledge of UI components,DSA
